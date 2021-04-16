@@ -10,7 +10,7 @@ This included the following tasks
 - Transformation of data from JSON/CSV to Turtle
 - Extraction of implicit product attributes using supervised machine learning
 
-# Product Ontology
+## Published product ontologies
 
 Various published rdf vocabularies for product data were considered, compared and evaluated. 
 
